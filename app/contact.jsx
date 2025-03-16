@@ -9,18 +9,14 @@ export default function TabTwoScreen() {
       <Text style={styles.titleH2}>Our Story</Text>
 
       <Text style={styles.defaultText}>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-        Vestibulum nec diam bibendum, viverra dui tincidunt, fringilla dui. 
-        Praesent ullamcorper eros lacus, ac convallis risus aliquet eu. 
-        Morbi consequat augue ac libero placerat, eget pretium turpis aliquam. 
-        Etiam aliquet velit vel libero hendrerit placerat. 
-        Sed at velit lectus. Aenean et justo ut dolor vehicula tempor ac eget lacus. 
-        Aliquam malesuada blandit libero, quis scelerisque nisl vestibulum non. 
-        Curabitur at neque tempus, lobortis ante eget, vulputate velit. 
-        Curabitur in neque et nibh tristique commodo. Fusce nec imperdiet risus. 
-        Sed ac erat erat. Donec faucibus ante non massa pulvinar eleifend. Vivamus nec aliquam nisi. 
-        Nullam arcu urna, malesuada vel neque sed, malesuada cursus augue.
-        Proin ultricies ac urna non tempor.
+        My money's in that office, right? If she start giving me some
+        bullshit about it ain't there, and we got to go someplace else
+        and get it, I'm gonna shoot you in the head then and there. Then
+        I'm gonna shoot that bitch in the kneecaps, find out where my
+        goddamn money is. She gonna tell me too. Hey, look at me when
+        I'm talking to you, motherfucker. You listen: we go in there,
+        and that nigga Winston or anybody else is in there, you the
+        first motherfucker to get shot. You understand?
       </Text>
 
     </View>
