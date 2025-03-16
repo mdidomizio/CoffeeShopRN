@@ -39,6 +39,7 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     backgroundColor: 'rgba(0,0,0,0.5)',
     marginBottom: 40,
+    marginTop: 60,
   },
   titleH2: {
     color: 'white',
